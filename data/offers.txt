@@ -1,0 +1,32 @@
+APPROVED RETENTION OFFERS
+
+Offer Name: 20% Cashback
+Suitable For:
+- At Risk Customers
+- High Churn Probability
+
+Offer Name: 15% Discount Upgrade
+Suitable For:
+- Price Sensitive Customers
+
+Offer Name: Loyalty Rewards Program
+Suitable For:
+- Loyal Customers
+
+Offer Name: Reward Point Bonus
+Suitable For:
+- Medium Risk Customers
+
+Offer Name: Premium Loyalty Reward
+Suitable For:
+- Champions
+
+Offer Name: VIP Benefits Package
+Suitable For:
+- Premium Customers
+
+Maximum Discount Allowed:
+20%
+
+Maximum Cashback Allowed:
+20%

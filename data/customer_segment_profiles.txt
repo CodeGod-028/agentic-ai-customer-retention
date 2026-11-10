@@ -1,0 +1,27 @@
+CUSTOMER SEGMENT PROFILES
+
+Champions:
+- High tenure
+- High revenue contribution
+- Strong engagement
+- Low churn probability
+
+Loyal Customers:
+- Consistent engagement
+- Long-term relationship
+- Moderate revenue contribution
+
+New Customers:
+- Recently acquired
+- Low tenure
+- High onboarding potential
+
+Price Sensitive:
+- Cost conscious
+- Highly responsive to discounts
+- Moderate churn risk
+
+At Risk:
+- High churn probability
+- Declining engagement
+- Requires proactive retention

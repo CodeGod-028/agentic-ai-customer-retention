@@ -1,0 +1,52 @@
+CUSTOMER RETENTION POLICY
+
+Objective:
+Reduce customer churn and improve customer lifetime value through targeted retention initiatives.
+
+Retention Priorities:
+
+1. High Risk Customers
+- Immediate intervention required
+- Escalation within 24 hours
+- Personalized retention offers
+
+2. Medium Risk Customers
+- Proactive engagement
+- Value-added offers
+- Customer education campaigns
+
+3. Low Risk Customers
+- Loyalty maintenance
+- Engagement nurturing
+- Premium service promotion
+
+Approved Retention Offers:
+
+- 10% Cashback
+- 15% Discount Upgrade
+- 20% Cashback
+- Reward Point Bonus
+- Premium Loyalty Reward
+- VIP Benefits Package
+
+Preferred Contact Channels:
+
+High Value Customers:
+- Phone Call
+- Relationship Manager
+
+General Customers:
+- Email
+- SMS
+- In-App Notifications
+
+Expected Retention Uplift:
+
+High Priority Campaigns:
+15%-25%
+
+Medium Priority Campaigns:
+10%-15%
+
+Low Priority Campaigns:
+5%-10%
